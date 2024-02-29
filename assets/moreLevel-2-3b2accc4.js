@@ -1,0 +1,1 @@
+import{d as a,l as t,r,o as s,a as u,e as m}from"./index-9a18d8a2.js";const c=a({__name:"moreLevel-2",setup(p){const e=t("");return(d,o)=>{const l=r("el-input");return s(),u("div",null,[m(l,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=n=>e.value=n)},null,8,["modelValue"])])}}});export{c as default};
