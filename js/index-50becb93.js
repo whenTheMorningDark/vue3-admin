@@ -1,0 +1,1 @@
+const t=Vue.defineComponent({__name:"index",setup(e){return Vue.onMounted(()=>{console.log({}.VITE_API_ENV)}),(n,o)=>(Vue.openBlock(),Vue.createElementBlock("div",null,"121233"))}});export{t as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./index-04ff411c.js";import"./vendor-56d62de5.js";const o={},c={class:"Logic-flow"};function t(n,r){return Vue.openBlock(),Vue.createElementBlock("div",c,"flow")}const f=e(o,[["render",t]]);export{f as default};

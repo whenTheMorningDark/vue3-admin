@@ -1,0 +1,1 @@
+import{_ as o}from"./index-04ff411c.js";import"./vendor-56d62de5.js";const r={};function t(n,c){const e=Vue.resolveComponent("router-view");return Vue.openBlock(),Vue.createBlock(e)}const u=o(r,[["render",t]]);export{u as default};

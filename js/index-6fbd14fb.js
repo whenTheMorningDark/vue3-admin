@@ -1,0 +1,1 @@
+import{_ as e}from"./index-04ff411c.js";import"./vendor-56d62de5.js";const c={},t={class:"count-up"};function o(n,r){return Vue.openBlock(),Vue.createElementBlock("div",t,"数字滚动组件")}const a=e(c,[["render",o]]);export{a as default};
